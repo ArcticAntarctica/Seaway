@@ -5,15 +5,19 @@ Navigate treacherous waters in this cozy isometric prototype game where you capt
 
 ## Key Features:
 
-Procedural Island Placement Generation – Each game start up feels fresh and avoids repetition by placing distinct looking islands in random but logical positions throughout the map
+<b>Procedural Island Placement Generation</b> – Each game start up feels fresh and avoids repetition by placing distinct looking islands in random but logical positions throughout the map
 
-Cargo Delivery Gameplay – Match island shapes to complete objectives
+<b>Cargo Delivery Gameplay</b> – Match island shapes to complete objectives
 
-Isometric 3D Art Style – A clean, visually engaging world
+<b>Isometric 3D Art Style</b> – A clean, visually engaging world
 
 ## Gameplay Video:
 
 https://github.com/user-attachments/assets/3816f92b-e6b2-43c5-b34e-c21f255c7479
+
+## Presentational Slides:
+
+https://docs.google.com/presentation/d/1hEUYsIq7vijZ27gpZ4MzjVUnbdX81miG-eivBM6kVXg/edit?usp=sharing
 
 Made Using Unity
 
