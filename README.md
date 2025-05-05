@@ -1,4 +1,4 @@
-# Seaway – Isometric 3D Ship Navigation Prototype
+# Seaway – 3D Isometric Ship Cargo-Delivery Game Prototype
 
 ## Intro
 Navigate treacherous waters in this cozy isometric prototype game where you captain a cargo ship through procedurally generated archipelagos. Each island boasts a unique silhouette - your challenge is to memorize their shapes and successfully deliver packages to matching destinations.
