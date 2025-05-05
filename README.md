@@ -13,8 +13,7 @@ Isometric 3D Art Style – A clean, visually engaging world
 
 ## Gameplay Video:
 
-https://github.com/user-attachments/assets/04f783ff-8964-43b5-b3ed-a5c117d61a25
-
+https://github.com/user-attachments/assets/3816f92b-e6b2-43c5-b34e-c21f255c7479
 
 Made Using Unity
 
